@@ -46,10 +46,10 @@
     <value>YES</value>
 
 	<key>NSLocationAlwaysUsageDescription</key>
-	<value>To track the user always</value>
+	<string>To track the user always</string>
 
 	<key>NSLocationWhenInUseUsageDescription</value>
-	<value>To track the user while using the app</value>
+	<string>To track the user while using the app</string>
 
 </dict>
 </plist>
