@@ -1,0 +1,45 @@
+[
+  {
+    "beer_name": "Dog H",
+    "rating": "5",
+    "location": "Nottingham",
+    "drank_with": "Andrew, Dan",
+    "notes": "The fucking shit",
+    "file_1": "package:cpd_assignment/assets/beer_1",
+    "file_2": "package:cpd_assignment/assets/beer_1",
+    "file_3": "package:cpd_assignment/assets/beer_3"
+  },
+
+  {
+    "beer_name": "Old Crafty Hen",
+    "rating": "4",
+    "location": "Lincoln",
+    "drank_with": "Nobody",
+    "notes": "Real fucken good",
+    "file_1": "package:cpd_assignment/assets/beer_1",
+    "file_2": "package:cpd_assignment/assets/beer_1",
+    "file_3": "package:cpd_assignment/assets/beer_3"
+  },
+
+  {
+    "beer_name": "Fosters",
+    "rating": "1.5",
+    "location": "Lincoln",
+    "drank_with": "ULES Gang",
+    "notes": "Utter shite",
+    "file_1": "package:cpd_assignment/assets/beer_1",
+    "file_2": "package:cpd_assignment/assets/beer_1",
+    "file_3": "package:cpd_assignment/assets/beer_3"
+  },
+
+  {
+    "beer_name": "Duvel",
+    "rating": "4",
+    "location": "Lincoln",
+    "drank_with": "Andrew, Dan",
+    "notes": "Belgians know their shit",
+    "file_1": "package:cpd_assignment/assets/beer_1",
+    "file_2": "package:cpd_assignment/assets/beer_1",
+    "file_3": "package:cpd_assignment/assets/beer_3"
+  }
+]
